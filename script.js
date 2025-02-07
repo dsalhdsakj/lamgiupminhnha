@@ -1,5 +1,5 @@
 const messages = [
-  "Virus đã xâm nhập!"
+  "🫣💞💞💞💞"
 ];
 
 function generateRandomNotifications() {
